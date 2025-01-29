@@ -1,3 +1,9 @@
+########################################
+My Custom Settings
+**/*config.py
+
+########################################
+# GITHUB TEMPLATE BELOW
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
